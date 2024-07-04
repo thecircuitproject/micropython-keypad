@@ -1,0 +1,15 @@
+{
+  "urls": [
+    [
+      "micropython-keypad/keypad.py",
+      "github:thecircuitproject/micropython-keypad/keypad.py"
+    ]
+  ],
+  "deps": [
+    [
+      "collections-defaultdict",
+      "latest"
+    ]
+  ],
+  "version": "0.1"
+}
