@@ -1,4 +1,4 @@
-# micropython-keypad
+# micro-keypad
 
 The Keypad library is designed to simplify keypad interfacing in Micropython-based hardware projects. Whether you’re working on a Raspberry Pi, ESP32, or any other Micropython-compatible board, this library provides an intuitive API for handling button presses and releases.
 
